@@ -5,4 +5,6 @@
 
 [Dashboard](https://twpinter.shinyapps.io/Teste/)
 
+(Work in progress) Development of dashboard made with R Shiny app for Macroeconomic statistics of Brazil. This panel is subdivided between different sections: economic activity, CPI prices, industry, monetary policy, and fiscal policy among others. The main objective of this dashboard is the fast analysis of the major macroeconomic indicators with quarter refreshes. **Tools: R.**
+
 [Voltar para o menu do portfólio](https://github.com/twpinter/Portfolio)
